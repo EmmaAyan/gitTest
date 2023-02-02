@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("git repository");
+        System.out.println("git update");
     }
 }
